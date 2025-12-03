@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.nassautv.com/</loc>
-    <lastmod>2025-12-01</lastmod>
+    <lastmod>2025-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.nassautv.com/blog.html</loc>
-    <lastmod>2025-12-01</lastmod>
+    <lastmod>2025-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -291,6 +291,12 @@
   <url>
     <loc>https://www.nassautv.com/blog/wei-xin-gou-mai-qu-dao-di-zhen-xiang-ni-yi-wei-de-jie-jing-qi-shi-shi-jing-xin-she-ji-de-xian-jing.html</loc>
     <lastmod>2025-11-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.nassautv.com/blog/shu-zi-shen-fen-de-hui-se-jiao-yi-jie-ma-wei-xin-hao-gou-mai-bei-hou-de-feng-xian-yu-bo-yi.html</loc>
+    <lastmod>2025-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
